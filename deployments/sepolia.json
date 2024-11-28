@@ -1,0 +1,10 @@
+{
+  "UniswapV2Factory": {
+    "address": "0x4603870b4e0825956842a823cDdDa35426b9Ca01",
+    "deployer": "0x8FE6E6fb4aE4Fa75fe5e3a36d73258dfBba46218",
+    "deploymentTime": "2024-11-28T18:41:50.246Z",
+    "constructorArgs": [
+      "0x8FE6E6fb4aE4Fa75fe5e3a36d73258dfBba46218"
+    ]
+  }
+}
